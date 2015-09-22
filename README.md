@@ -1,0 +1,4 @@
+# CSS3_-_jqury_effect_for_web_design
+# Amazing Page Transitions Effects Tutorials in jQuery and CSS3
+jQuery and CSS3 have drastically altered the approach web designing and development was done. It has permitted developers & designers to generate some truly stunning and astonishing components relatively effortlessly deprived of much exertion or coding. They also demonstrate to be time savers as they also allow you complete your task speedily. The greatest thing about jQuery and CSS3 is that a massive amount of tutorials about numerous diverse components and effects are existing on the web. This thing makes learning new methods and generating remarkable matter even cooler. These tutorials also aid you to trial with diverse thoughts and produce rather completely astonishing and innovative. A lot of page transitions effects tutorials are also obtainable on the web.
+
